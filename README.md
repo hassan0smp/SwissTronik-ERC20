@@ -1,8 +1,9 @@
-# Swisstronik Mint 100 ERC-20 tokens
+# swisstronik-perc-20
 
-This project demonstrates deploying a Swisstronik contract and upgrading it using Hardhat and OpenZeppelin's upgrades plugin. It includes scripts to set and get messages from the deployed contract using Swisstronik's shielded transactions.
+This repository contains a setup for deploying and interacting with an PERC-20 token on the Swisstronik testnet using Hardhat. The setup includes scripts for deploying the contract, minting tokens, and transferring tokens, utilizing encrypted transactions with Swisstronik.
 
 ## Prerequisites
+Ensure you have the following installed:
 
 - Node.js (v14.x or later)
 - npm (v6.x or later)
@@ -12,8 +13,8 @@ This project demonstrates deploying a Swisstronik contract and upgrading it usin
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/hassan0smp/SwissTronik-ERC20.git
-cd SwissTronik-ERC20
+git clone https://github.com/hassan0smp/swissTronik-PERC20.git
+cd swissTronik-PERC20
 ```
 
 2. Run the setup script:
