@@ -1,4 +1,4 @@
-# Swisstronik Deploy Proxy
+# Swisstronik Mint 100 ERC-20 tokens
 
 This project demonstrates deploying a Swisstronik contract and upgrading it using Hardhat and OpenZeppelin's upgrades plugin. It includes scripts to set and get messages from the deployed contract using Swisstronik's shielded transactions.
 
