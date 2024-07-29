@@ -12,8 +12,8 @@ This project demonstrates deploying a Swisstronik contract and upgrading it usin
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/hassan0smp/mint-100-tokens.git
-cd mint-100-tokens
+git clone https://github.com/hassan0smp/SwissTronik-ERC20.git
+cd SwissTronik-ERC20
 ```
 
 2. Run the setup script:
